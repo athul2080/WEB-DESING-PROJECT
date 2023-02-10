@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-size: cover;
+  background-position: center;
+}
+.card-body
+{
+   width: 400px;
+   margin: 8% auto 0;
+   border-radius: 5px;
+   background-color: whitesmoke;
+   padding: 1cm;
+}
+button
+{
+  color: white;
+  width: 90%;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  margin: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  
+}
+.btn
+{
+  background: linear-gradient(135deg, #71b7e6, #9b59b6);;
+}
+.card
+{
+  align-items: center;
+}

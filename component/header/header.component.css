@@ -1,0 +1,23 @@
+.name
+{
+    padding: .4cm;
+    text-align: center;
+}
+.btn1
+{text-align: center;
+    padding: .4cm;
+    padding-right: -4cm;
+    
+}
+.btn2
+{text-align: center;
+    
+    width: 3cm;
+    padding-top: .5cm;
+    
+}
+.btn
+{
+    background-color:bisque;
+    
+}

@@ -1,0 +1,22 @@
+.table,th,td
+{
+    border: 2px solid black;
+    padding: .5cm;
+    align-items: center;
+    background-color: aliceblue;
+
+}
+.tr
+{
+    background-color: blue;
+
+}
+.tab1
+{
+    margin: 3cm;
+}
+.img
+{
+    width: 200px;
+    height: 200px;
+}
